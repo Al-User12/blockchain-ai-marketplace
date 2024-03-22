@@ -1,0 +1,14 @@
+{
+  "name": "blockchain-ai-marketplace",
+  "version": "1.0.0",
+  "description": "Contoh proyek menggunakan chain-ai-connect untuk marketplace AI di blockchain",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Al_User12",
+  "license": "MIT",
+  "dependencies": {
+    "chain-ai-connect": "^1.1.1"
+  }
+}
